@@ -8,7 +8,7 @@ A  data scientist with over 2 years of experience in the field of data analytics
 
 
 
-Skills: Python / R/ java / javaScripts 
+Skills: Python / R/ Excel VBA /  SQL  
 
 - 🔭 I’m currently working on this page. 
 
