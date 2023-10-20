@@ -1,8 +1,6 @@
 
 ### Hi there 👋, Akram Guerchali 
 #### Data Scientists / Quant Dev
-![Data Scientists / Quant Dev](https://github.com/akramguerchali)
-
 A  data scientist with over 2 years of experience in the field of data analytics, machine learning, and predictive modeling. I have a track record of leveraging data-driven insights to drive business growth and optimize operations. My strong analytical skills, deep industry knowledge, and proficiency in data tools and languages make me a valuable asset in solving complex business problems.
 
 Skills: Python / R/ java / javaScripts 
@@ -14,6 +12,5 @@ Skills: Python / R/ java / javaScripts
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/akramguerchali&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/akramguerchali)  
+
